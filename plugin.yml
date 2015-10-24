@@ -1,0 +1,4 @@
+name: CustomMessage
+main: me.falceso.customlogin.Main
+version: 1.0
+commands:
